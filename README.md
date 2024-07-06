@@ -1,7 +1,5 @@
 ![I am a Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWv7JG7oxxSKRnv4U0iRC5KiZ80hoGlqnJg&s)
 ### Hi there 👋, my name is Ovi
-#### I am a Web Developer
-
 I am a Front End Web Developer dedicated to crafting flawless websites that achieve complete client satisfaction. I am deeply passionate about learning and enthusiastically share my knowledge with the community. Solving real-world challenges excites me. I am strategic, goal-oriented, and always focused on the final objective. Over the years, I have successfully delivered 100% of the websites for my clients. I take pride in producing high-quality work and maintaining excellent communication. While I predominantly work with WordPress, I also enjoy utilizing technologies such as ReactJS, JavaScript, and PHP.
 
 Skills: REACT / JS / HTML / CSS/MONGODB/TAILWIND/FIREBASE/NODE
